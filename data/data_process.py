@@ -37,17 +37,18 @@ def user_generate(filename):
             user_absolute_time.append(float(rows[3]))
         for i in user_absolute_time:
             user_relative_time.append(i/user_total_time)
-            
+    appender(user_relative_time)
 
 
-
-def appender(user_relative_time, filename):
+def appender(user_relative_time):
     # Append items to lines.
     i = 0
-    with open('steam-200k.csv', 'r') as istr:
-        with open('output.txt', 'w') as ostr:
+    with open('modified_user_info', 'r') as istr:
+        with open('output.csv', 'w') as ostr:
+            i = 0
             for line in istr:
                 line = line.rstrip('\n') + ',' + str(user_relative_time[i])
+                i += 1
                 # Replace sample message with items to append.
                 print(line, file=ostr)
 
