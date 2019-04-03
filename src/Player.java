@@ -11,6 +11,7 @@ public class Player {
 	 */
 	public Player() {
 		this.id = "0";
+		purchased = new ArrayList<String>();
 	}
 	
 	/**
@@ -19,7 +20,6 @@ public class Player {
 	 */
 	public void setId(String id){
 		this.id = id;
-		purchased = new ArrayList<String>();
 	}
 	
 	/**
@@ -35,10 +35,11 @@ public class Player {
 		this.purchased.add(purchased);
 	}
 	
-	@Override
-	public int hashCode() {
-		int h = 5;
-		h = h * 7 + id.hashCode();
-		return h;
+	public void printPurchase(){
+		for(int i = 0; i < purchased.size(); i++ ) {
+			System.out.print(purchased.get(i) + " ");
+			System.out.println();
+		}
 	}
+	
 }

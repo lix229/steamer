@@ -21,21 +21,28 @@ public class Read {
 	public static ArrayList<Player> readPlayer() throws Exception {
 		ArrayList<Player> players = new ArrayList<>();
 		BufferedReader br = new BufferedReader(new FileReader("data/steam-200k_purchase.csv"));
+		
 		String s;
 		Player temp = new Player();
 		s = br.readLine();
 		ArrayList<String> start = Read.getElements(s);
 		temp.setId(start.get(0));
 		temp.addPurchase(start.get(1));
+		
 		while ((s = br.readLine())!= null) {
 			ArrayList<String> elements = Read.getElements(s);
+			
 			//if id is different
-			if(elements.get(0) != temp.getId()) {
+			if(!elements.get(0).equals(temp.getId())) {
 				players.add(temp);
-				temp.setId(elements.get(0));				
+				temp = new Player();
+				temp.setId(elements.get(0));
+				temp.addPurchase(elements.get(1));
+			}else {
+				temp.addPurchase(elements.get(1));
 			}
-			temp.addPurchase(elements.get(1));
 		}
+		players.add(temp);
 		br.close();
 		return players;
 	}

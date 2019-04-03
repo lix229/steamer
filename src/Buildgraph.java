@@ -14,7 +14,8 @@ public class Buildgraph {
 		String line;
 		while ((line = br.readLine()) != null) {
 			ArrayList<String> elements = Read.getElements(line);
-			int from = gameMap.get(elements.get(1));
+			String temp = elements.get(1).replaceAll("[^A-Za-z0-9]", "");
+			int from = gameMap.get(temp);
 			System.out.println(from);
 			int to = playerMap.get(elements.get(0));
 			System.out.println(to);
