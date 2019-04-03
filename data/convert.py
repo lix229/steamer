@@ -2,18 +2,23 @@
 import json
 import csv
 import ast
-
+import re
 
 def process_csv(input_csv):
     data = []
     with open(input_csv,"r") as csvfile:
         reader = csv.reader(csvfile)
         rows = [row for row in reader]
-    #print(rows)#输出所有数据
+    print(rows)#输出所有数据
     for name in rows:
-        if not name[1] in data:
-            data.append(name[1])
-    #print(data)
+        temp = name[1]
+        pattern = re.compile('\W')
+        temp = re.sub(pattern, '', temp)
+        temp = temp.upper()
+        if not temp in data:
+            print(temp)
+            data.append(temp)
+    print(data)
 
     return data
     #data=np.array(rows)#rows是数据类型是‘list',转化为数组类型好处理
@@ -33,7 +38,12 @@ def process_json(input_json_file, output_json_file):
     #修改json中的数据
     json_data_new = {}
     for i in json_data:
-        if json_data[i].get("name") in data:
+        temp = json_data[i].get("name")
+        pattern = re.compile('\W')
+        temp = re.sub(pattern, '', temp)
+        temp = temp.upper()
+        if temp in data:
+            print(temp)
             json_data_new[i] = json_data[i]
     print(json_data_new)
 
