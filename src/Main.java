@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class Main {
 
@@ -11,6 +12,7 @@ public class Main {
 		
 		ArrayList<Game> games = Read.readGame();
 		ArrayList<Player> players = Read.readPlayer();
+		Player user = new Player("0");
 		
 		/*
 		 * add games that are not in the database
@@ -34,11 +36,66 @@ public class Main {
 		pw.close();*/
 		
 		
+		
+		Scanner reader1 = new Scanner(System.in);  // Reading from System.in
+		int flag = 1;
+		String game1;
+		String game2;
+		String game3;
+        System.out.println("Please enter your most liked game: ");
+		do {
+	        game1 = reader1.nextLine();
+	        if (Search.binarySearch(games, 0, games.size()-1, game1) >= 0) {
+	        	user.addPurchase(game1);
+	            flag = 2;
+	        }
+	        else {
+	        	System.out.println("Game is not in our database, please try again: ");
+	        }
+	    } while (flag == 1);
+		
+		flag = 1;
+		System.out.println("Please enter your second liked game: ");
+		do {
+			game2 = reader1.nextLine();
+	        if (Search.binarySearch(games, 0, games.size()-1, game2) >= 0) {
+	        	user.addPurchase(game2);
+	            flag = 2;
+	        }
+	        else {
+	        	System.out.println("Game is not in our database, please try again: ");
+	        }
+	    } while (flag == 1);
+		
+		flag = 1;
+		System.out.println("Please enter your third liked game: ");
+		do {
+			game3 = reader1.nextLine();
+	        if (Search.binarySearch(games, 0, games.size()-1, game3) >= 0) {
+	        	user.addPurchase(game3);
+	            flag = 2;
+	        }
+	        else {
+	        	System.out.println("Game is not in our database, please try again: ");
+	        }
+	    } while (flag == 1);
+		
+		reader1.close();
+		
+		/*
+		for (int i=0; i<games.size(); i++) {
+			if(Search.binarySearch(games, 0, games.size()-1, games.get(i).getName()) == -1){
+			System.out.println(games.get(i).getName() + " is not found");
+			}
+		}*/
+		
+		//System.out.println("Path of Exile".compareTo("PC Gamer"));
+		System.out.println(Search.binarySearch(games, 0, games.size()-1, "King’s Bounty: Legions"));
 		System.out.println("finish array");
 		System.out.println(games.size());
 		System.out.println(players.size());
 		
-		/*
+	    /*
 		for (int i=0; i<games.size(); i++) {
 			System.out.println(games.get(i).getName());
 		}*/
