@@ -14,7 +14,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.event.EventListenerList;
 
-import com.sun.javadoc.ThrowsTag;
 
 public class DetailsPanel extends JPanel {
 
@@ -42,7 +41,9 @@ public class DetailsPanel extends JPanel {
 		
 		final JTextField gameField1 = new JTextField(10);
 		final JTextField gameField2 = new JTextField(10);
+		gameField2.setEditable(false);
 		final JTextField gameField3 = new JTextField(10);
+		gameField3.setEditable(false);
 		
 		
 		JButton gameButton1 = new JButton("ADD");	
@@ -50,7 +51,9 @@ public class DetailsPanel extends JPanel {
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
 				if(!currentPlayer.isDuplicate(name1) && Search.binarySearch(games, 0, games.size()-1, name1) != -1) {
+					System.out.println(Search.binarySearch(games, 0, games.size()-1, name1));
 					currentPlayer.addPurchase(name1);
+					gameField2.setEditable(true);
 				}
 //				fireDetailEvent(new DetailEvent(this, name1));
 			}
@@ -63,6 +66,7 @@ public class DetailsPanel extends JPanel {
 				String name2 = gameField2.getText();
 				if(!currentPlayer.isDuplicate(name2) && Search.binarySearch(games, 0, games.size()-1, name2) != -1) {
 					currentPlayer.addPurchase(name2);
+					gameField3.setEditable(true);
 				}
 			}
 		});
@@ -101,6 +105,7 @@ public class DetailsPanel extends JPanel {
 				} catch (Exception e1) {
 					e1.printStackTrace();
 				}
+
 				
 				try {
 					Buildgraph.addPlayer(gameGraph, currentPlayer, gameMap);
