@@ -130,5 +130,15 @@ public class Main {
 		Graph gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games,players );
 		System.out.println("finish graph");
 		
+		Buildgraph.addPlayer(gameGraph, user, gameMap);
+		
+		double[] result = GraphAlgo.collaborative(gameGraph, games);
+		
+		int[] sorted = Sort.sort(result);
+		
+		System.out.println(games.get(sorted[sorted.length - 4]).getName());
+		System.out.println(games.get(sorted[sorted.length - 5]).getName());
+		System.out.println(games.get(sorted[sorted.length - 6]).getName());
+		
 	}
 }

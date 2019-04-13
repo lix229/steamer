@@ -5,15 +5,15 @@ public class Graph {
 	private ArrayList<Edge>[] adj;
 	
 	@SuppressWarnings("unchecked")
-	public Graph(int V) {
-		this.V = V;
-		this.adj = (ArrayList<Edge>[]) new ArrayList[V];
-		for (int i=0; i<V; ++i) {
+	public Graph(int size) {
+		this.V = size+1;
+		this.adj = (ArrayList<Edge>[]) new ArrayList[size+1];
+		for (int i=0; i<this.V; ++i) {
 			this.adj[i] = new ArrayList<Edge>();
 		}
 	}
 	
-	public int V() {
+	public int getV() {
 		return this.V;
 	}
 	
@@ -23,10 +23,10 @@ public class Graph {
 	
 	//undirected graph
 	public void addEdge(Edge e) {
-		validateVertex(e.getFrom());
-        validateVertex(e.getTo());
-		adj[e.getFrom()].add(e);
-		adj[e.getTo()].add(e);
+		validateVertex(e.getGame());
+        validateVertex(e.getPlayer());
+		adj[e.getGame()].add(e);
+		adj[e.getPlayer()].add(e);
 	}
 	
 	private void validateVertex(int v) {
