@@ -17,10 +17,12 @@ public class DetailsPanel extends JPanel {
 	private static final long serialVersionUID = 6915622549267792262L;
 	
 	private EventListenerList listenerList = new EventListenerList();
+	
+	private Player currentPlayer = new Player();
 
 	public DetailsPanel() {
 		Dimension size = getPreferredSize();
-		size.width = 275;
+		size.width = 300;
 		setPreferredSize(size);
 		
 		setBorder(BorderFactory.createTitledBorder("User input"));
@@ -32,19 +34,41 @@ public class DetailsPanel extends JPanel {
 		final JTextField gameField1 = new JTextField(10);
 		final JTextField gameField2 = new JTextField(10);
 		final JTextField gameField3 = new JTextField(10);
-	
 		
-		JButton gameButton1 = new JButton("ADD");
+		
+		JButton gameButton1 = new JButton("ADD");	
 		gameButton1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
-				fireDetailEvent(new DetailEvent(this, name1));
+				if(!currentPlayer.isDuplicate(name1)) {
+					currentPlayer.addPurchase(name1);
+				}
+//				fireDetailEvent(new DetailEvent(this, name1));
 			}
 		});
 		
 		
 		JButton gameButton2 = new JButton("ADD");
+		gameButton2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String name2 = gameField2.getText();
+				if(!currentPlayer.isDuplicate(name2)) {
+					currentPlayer.addPurchase(name2);
+				}
+			}
+		});
+		
 		JButton gameButton3 = new JButton("ADD");
+		gameButton3.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String name3 = gameField2.getText();
+				if(!currentPlayer.isDuplicate(name3)) {
+					currentPlayer.addPurchase(name3);
+				}
+			}
+		});
+		
+		JButton genButton = new JButton("Generate");
 		
 		setLayout(new GridBagLayout());
 		
@@ -106,6 +130,13 @@ public class DetailsPanel extends JPanel {
 		gridBagConstraints.gridx = 2;
 		gridBagConstraints.gridy = 2;
 		add(gameButton3, gridBagConstraints);
+		
+		// Generation button
+		gridBagConstraints.anchor = GridBagConstraints.CENTER;
+//		gridBagConstraints.weighty = 5;
+		gridBagConstraints.gridx = 1;
+		gridBagConstraints.gridy = 3;
+		add(genButton,gridBagConstraints);
 		
 		
 	}

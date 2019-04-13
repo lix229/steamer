@@ -47,4 +47,13 @@ public class Player {
 		}
 	}
 	
+    public boolean isDuplicate(String game) {
+    	for (int i = 0; i < purchased.size(); i ++) {
+    		if (purchased.get(i) == game) {
+    			return true;
+    		}
+    	}
+    	return false;
+    }
+	
 }
