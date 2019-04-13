@@ -23,7 +23,14 @@ public class Graph {
 	
 	//undirected graph
 	public void addEdge(Edge e) {
-		adj[e.from].add(e);
-		adj[e.to].add(e);
+		validateVertex(e.getFrom());
+        validateVertex(e.getTo());
+		adj[e.getFrom()].add(e);
+		adj[e.getTo()].add(e);
 	}
+	
+	private void validateVertex(int v) {
+        if (v < 0 || v >= V)
+            throw new IllegalArgumentException("vertex " + v + " is not between 0 and " + (V-1));
+    }
 }
