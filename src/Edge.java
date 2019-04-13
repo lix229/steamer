@@ -1,21 +1,21 @@
 
 public class Edge {
-	private final int from;
-	private final int to;
+	private final int game;
+	private final int player;
 	private final double relativePlay;
 	
-	public Edge(int from, int to, double weight) {
-		this.from = from;
-		this.to = to;
+	public Edge(int game, int player, double weight) {
+		this.game = game;
+		this.player = player;
 		this.relativePlay = weight;
 	}
 	
-	public int getFrom() {
-		return this.from;
+	public int getGame() {
+		return this.game;
 	}
 	
-	public int getTo() {
-		return this.to;
+	public int getPlayer() {
+		return this.player;
 	}
 	
 	public double getRelative() {

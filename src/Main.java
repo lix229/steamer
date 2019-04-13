@@ -15,6 +15,19 @@ public class Main {
 		Player user = new Player("0");
 		
 		/*
+		double[] test = {17, 13, 14, 15, 16};
+		
+		for (int i=0; i<test.length; i++) {
+			System.out.println(test[i]);
+		}
+		
+		int[] result = Sort.sort(test);
+		
+		for (int i=0; i<result.length; i++) {
+			System.out.println(result[i]);
+		}*/
+		
+		/*
 		 * add games that are not in the database
 		FileWriter pw = new FileWriter("data/apiout.csv",true); 
 		BufferedReader error = new BufferedReader(new FileReader("data/error.txt"));
@@ -90,7 +103,6 @@ public class Main {
 		}*/
 		
 		//System.out.println("Path of Exile".compareTo("PC Gamer"));
-		System.out.println(Search.binarySearch(games, 0, games.size()-1, "King’s Bounty: Legions"));
 		System.out.println("finish array");
 		System.out.println(games.size());
 		System.out.println(players.size());
@@ -117,6 +129,16 @@ public class Main {
 		
 		Graph gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games,players );
 		System.out.println("finish graph");
+		
+		Buildgraph.addPlayer(gameGraph, user, gameMap);
+		
+		double[] result = GraphAlgo.collaborative(gameGraph, games);
+		
+		int[] sorted = Sort.sort(result);
+		
+		System.out.println(games.get(sorted[sorted.length - 4]).getName());
+		System.out.println(games.get(sorted[sorted.length - 5]).getName());
+		System.out.println(games.get(sorted[sorted.length - 6]).getName());
 		
 	}
 }
