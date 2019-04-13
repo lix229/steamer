@@ -2,24 +2,16 @@ import java.util.ArrayList;
 
 public class Player {
 	
-	private String id;
+	private final String id;
 	private ArrayList<String> purchased;
 	
 	/**
 	 * Constructor for Player
 	 * @param s line from csv file
 	 */
-	public Player() {
-		this.id = "0";
-		purchased = new ArrayList<String>();
-	}
-	
-	/**
-	 * set the id from product
-	 * @param id - long for player id
-	 */
-	public void setId(String id){
+	public Player(String id) {
 		this.id = id;
+		purchased = new ArrayList<String>();
 	}
 	
 	/**
@@ -33,6 +25,14 @@ public class Player {
 
 	public void addPurchase(String purchased){
 		this.purchased.add(purchased);
+	}
+	
+	public ArrayList<String> getPurchased(){
+		ArrayList<String> temp = new ArrayList<String>();
+		for (int i=0; i<purchased.size(); i++) {
+			temp.add(purchased.get(i));
+		}
+		return temp;
 	}
 	
 	public void printPurchase(){

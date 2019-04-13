@@ -33,22 +33,20 @@ public class Main {
 		error.close();
 		pw.close();*/
 		
-		BufferedWriter bw = new BufferedWriter(new FileWriter("data/player.txt"));
-		for(int i = 0; i < players.size(); i++) {
-			String temp = players.get(i).getId();
-			bw.write(temp);
-			bw.newLine();
-		}
-		bw.close();
 		
 		System.out.println("finish array");
 		System.out.println(games.size());
 		System.out.println(players.size());
 		
+		/*
+		for (int i=0; i<games.size(); i++) {
+			System.out.println(games.get(i).getName());
+		}*/
+		
 		
 		HashMap<String, Integer> gameMap = new HashMap<>();
 		for (int i=0; i<games.size(); i++) {
-			String temp = games.get(i).name.replaceAll("[^A-Za-z0-9]", "");
+			String temp = games.get(i).getName().replaceAll("[^A-Za-z0-9]", "");
 			temp = temp.toUpperCase();
 			gameMap.put(temp, i);
 		}
