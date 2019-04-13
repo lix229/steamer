@@ -3,6 +3,9 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -10,6 +13,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.event.EventListenerList;
+
+import com.sun.javadoc.ThrowsTag;
 
 public class DetailsPanel extends JPanel {
 
@@ -20,7 +25,11 @@ public class DetailsPanel extends JPanel {
 	
 	private Player currentPlayer = new Player();
 
-	public DetailsPanel() {
+	public DetailsPanel() throws Exception {
+		
+		ArrayList<Game> games = Read.readGame();
+		ArrayList<Player> players = Read.readPlayer();
+		
 		Dimension size = getPreferredSize();
 		size.width = 300;
 		setPreferredSize(size);
@@ -40,7 +49,7 @@ public class DetailsPanel extends JPanel {
 		gameButton1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
-				if(!currentPlayer.isDuplicate(name1)) {
+				if(!currentPlayer.isDuplicate(name1) && Search.binarySearch(games, 0, games.size()-1, name1) != -1) {
 					currentPlayer.addPurchase(name1);
 				}
 //				fireDetailEvent(new DetailEvent(this, name1));
@@ -52,7 +61,7 @@ public class DetailsPanel extends JPanel {
 		gameButton2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name2 = gameField2.getText();
-				if(!currentPlayer.isDuplicate(name2)) {
+				if(!currentPlayer.isDuplicate(name2) && Search.binarySearch(games, 0, games.size()-1, name2) != -1) {
 					currentPlayer.addPurchase(name2);
 				}
 			}
@@ -62,13 +71,61 @@ public class DetailsPanel extends JPanel {
 		gameButton3.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name3 = gameField2.getText();
-				if(!currentPlayer.isDuplicate(name3)) {
+				if(!currentPlayer.isDuplicate(name3)&& Search.binarySearch(games, 0, games.size()-1, name3) != -1) {
 					currentPlayer.addPurchase(name3);
 				}
 			}
 		});
 		
 		JButton genButton = new JButton("Generate");
+		genButton.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				HashMap<String, Integer> gameMap = new HashMap<>();
+				for (int i=0; i<games.size(); i++) {
+					String temp = games.get(i).getName().replaceAll("[^A-Za-z0-9]", "");
+					temp = temp.toUpperCase();
+					gameMap.put(temp, i);
+				}
+				
+				
+				HashMap<String, Integer> playerMap = new HashMap<>();
+				for (int i=0; i<players.size(); i++) {
+					playerMap.put(players.get(i).getId(), games.size()+i);
+				}
+				
+				Graph gameGraph = null;
+				
+				try {
+					gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games,players );
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
+				
+				try {
+					Buildgraph.addPlayer(gameGraph, currentPlayer, gameMap);
+				} catch (IOException e1) {
+					e1.printStackTrace();
+				}
+				
+				double[] result = GraphAlgo.collaborative(gameGraph, games);
+				
+				int[] sorted = Sort.sort(result);
+				
+				String[] resultStrings = {(games.get(sorted[sorted.length - 4]).getName()), (games.get(sorted[sorted.length - 5]).getName()), (games.get(sorted[sorted.length - 6]).getName())};
+//				resultStrings.add(games.get(sorted[sorted.length - 4]).getName());
+//				resultStrings.add(games.get(sorted[sorted.length - 5]).getName());
+//				resultStrings.add(games.get(sorted[sorted.length - 6]).getName());
+				
+//				String test = resultStrings[0];
+//				System.out.println(test);
+			
+				for(int i =0; i < resultStrings.length; i++) {
+					fireDetailEvent(new DetailEvent(this, resultStrings[i]));
+				}
+				
+			}
+		});
 		
 		setLayout(new GridBagLayout());
 		

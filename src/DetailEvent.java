@@ -1,15 +1,16 @@
+import java.util.ArrayList;
 import java.util.EventObject;
 
 public class DetailEvent extends EventObject {
 	
-	private String text;
-	public DetailEvent(Object source, String text) {
+	String resultList;
+	public DetailEvent(Object source, String string) {
 		super(source);
 		
-		this.text = text;
+		this.resultList = string;
 		
 	}
-	public String getText() {
-		return this.text;
+	public String getResult() {
+		return this.resultList;
 	}
 }
