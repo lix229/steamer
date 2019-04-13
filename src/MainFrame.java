@@ -19,7 +19,16 @@ public class MainFrame extends JFrame {
 		
 		JTextArea textArea = new JTextArea();
 		JButton button = new JButton("Click");
+		
 		penal = new DetailsPanel();
+		
+		penal.addDetailListener(new DetailListener() {
+			public void detailEventOccurred(DetailEvent event) {
+				String text = event.getText();
+				textArea.append(text);
+			}
+		});
+		
 		
 		Container container = getContentPane();
 		container.add(textArea, BorderLayout.CENTER);

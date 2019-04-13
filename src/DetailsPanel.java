@@ -9,8 +9,15 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import javax.swing.event.EventListenerList;
 
 public class DetailsPanel extends JPanel {
+
+	
+	private static final long serialVersionUID = 6915622549267792262L;
+	
+	private EventListenerList listenerList = new EventListenerList();
+
 	public DetailsPanel() {
 		Dimension size = getPreferredSize();
 		size.width = 275;
@@ -29,10 +36,9 @@ public class DetailsPanel extends JPanel {
 		
 		JButton gameButton1 = new JButton("ADD");
 		gameButton1.addActionListener(new ActionListener() {
-			
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
-				
+				fireDetailEvent(new DetailEvent(this, name1));
 			}
 		});
 		
@@ -80,7 +86,7 @@ public class DetailsPanel extends JPanel {
 		add(gameField3, gridBagConstraints);
 		
 		
-		 ///final row
+		 ///final column
 //		gridBagConstraints.weighty = 10;
 		
 		gridBagConstraints.anchor = GridBagConstraints.LINE_START;
@@ -102,7 +108,23 @@ public class DetailsPanel extends JPanel {
 		add(gameButton3, gridBagConstraints);
 		
 		
+	}
+	
+	public void fireDetailEvent(DetailEvent event) {
+		Object [] listeners = listenerList.getListenerList();
 		
-		
+		for (int i = 0; i < listeners.length; i += 2) {
+			if(listeners[i] == DetailListener.class) {
+				((DetailListener)listeners[i+1]).detailEventOccurred(event);
+			}
+		}
+	}
+	
+	public void addDetailListener(DetailListener listener) {
+		listenerList.add(DetailListener.class, listener);
+	}
+	
+	public void removeDetailListener(DetailListener listener) {
+		listenerList.remove(DetailListener.class, listener);
 	}
 }
