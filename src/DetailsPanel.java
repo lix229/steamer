@@ -1,6 +1,7 @@
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
+import java.awt.HeadlessException;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
@@ -10,6 +11,7 @@ import java.util.HashMap;
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.event.EventListenerList;
@@ -55,6 +57,13 @@ public class DetailsPanel extends JPanel {
 					currentPlayer.addPurchase(name1);
 					gameField2.setEditable(true);
 				}
+				try {
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+				} catch (HeadlessException e1) {
+					e1.printStackTrace();
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
 //				fireDetailEvent(new DetailEvent(this, name1));
 			}
 		});
@@ -68,6 +77,13 @@ public class DetailsPanel extends JPanel {
 					currentPlayer.addPurchase(name2);
 					gameField3.setEditable(true);
 				}
+				try {
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+				} catch (HeadlessException e1) {
+					e1.printStackTrace();
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
 			}
 		});
 		
@@ -78,7 +94,15 @@ public class DetailsPanel extends JPanel {
 				if(!currentPlayer.isDuplicate(name3)&& Search.binarySearch(games, 0, games.size()-1, name3) != -1) {
 					currentPlayer.addPurchase(name3);
 				}
+				try {
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+				} catch (HeadlessException e1) {
+					e1.printStackTrace();
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
 			}
+			
 		});
 		
 		JButton genButton = new JButton("Generate");
