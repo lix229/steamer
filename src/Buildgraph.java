@@ -13,23 +13,25 @@ public class Buildgraph {
 		Graph g = new Graph(games.size()+ players.size());
 
 		BufferedWriter bw = new BufferedWriter(new FileWriter("data/error.txt"));
-		
-		BufferedReader br = new BufferedReader(new FileReader("data/steam-200k_play.csv"));
+		BufferedReader br = new BufferedReader(new FileReader("data/output.csv"));
 		String line;
+		
 		while ((line = br.readLine()) != null) {
 			ArrayList<String> elements = Read.getElements(line);
 			//System.out.println("Game is " + elements.get(1));
+			
 			String temp = elements.get(1).replaceAll("[^A-Za-z0-9]", "");
 			temp = temp.toUpperCase();
 			int from = 0;
 			int to = 0;
+			
 			try {
 				from = gameMap.get(temp);
 				//System.out.println(from);
 			}catch(Exception e){
 				//System.out.println("Exception at game");
 				//e.printStackTrace(System.err);
-				bw.write(elements.get(1));
+				bw.write("Exception at game" + elements.get(1));
 				bw.newLine();
 			}
 			
@@ -43,7 +45,7 @@ public class Buildgraph {
 				bw.write("Exception at player" + elements.get(0));
 				bw.newLine();
 			}
-			g.addEdge(new Edge(from, to, Double.parseDouble(elements.get(3))));
+			g.addEdge(new Edge(from, to, Double.parseDouble(elements.get(5))));
 		}
 		br.close();
 		
