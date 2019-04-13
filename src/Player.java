@@ -5,6 +5,11 @@ public class Player {
 	private final String id;
 	private ArrayList<String> purchased;
 	
+	public Player() {
+		this.id = "Current user";
+		purchased = new ArrayList<String>();
+	}
+	
 	/**
 	 * Constructor for Player
 	 * @param s line from csv file
