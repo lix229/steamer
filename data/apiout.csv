@@ -155,6 +155,7 @@
 316010,316010,Magic Duels,Stainless Games Ltd.,Wizards of the Coast LLC,,16591,6883,0,"2,000,000 .. 5,000,000",837,234,97,87,0,0,0
 268420,268420,Aura Kingdom,X-Legend,Aeria Games,,5652,1515,0,"2,000,000 .. 5,000,000",1736,1323,73,181,0,0,0
 50620,50620,Darksiders,Vigil Games,THQ Nordic,,8915,1049,0,"2,000,000 .. 5,000,000",498,156,133,282,1999,1999,0
+34270,34270,SEGA Genesis & Mega Drive Classics,D3T Limited,SEGA,,2022,505,0,"200,000 .. 500,000",228,255,119,13,2999,2999,0
 203290,203290,America's Army: Proving Grounds,U.S. Army,U.S. Army,,6382,1890,0,"2,000,000 .. 5,000,000",1053,233,32,350,0,0,0
 3910,3910,Sid Meier's Civilization III Complete,Firaxis Games,2K,,2559,399,0,"2,000,000 .. 5,000,000",545,197,16,80,499,499,0
 210770,210770,Sanctum 2,Coffee Stain Studios,Coffee Stain Publishing,,11608,1266,0,"2,000,000 .. 5,000,000",367,471,174,305,1499,1499,0
@@ -219,6 +220,7 @@
 8500,8500,EVE Online,CCP,CCP,,8203,2733,0,"1,000,000 .. 2,000,000",2533,672,96,89,0,0,0
 12100,12100,Grand Theft Auto III,Rockstar Games,Rockstar Games,,4658,742,0,"1,000,000 .. 2,000,000",959,670,48,34,999,999,0
 335300,335300,DARK SOULS II: Scholar of the First Sin,"FromSoftware, Inc","BANDAI NAMCO Entertainment, FromSoftware, Inc",,25582,4207,0,"1,000,000 .. 2,000,000",3208,570,1403,144,3999,3999,0
+216251,216251,Dead Island Epidemic,Techland,Deep Silver,,4914,767,0,"1,000,000 .. 2,000,000",638,276,296,529,1999,1999,0
 202170,202170,Sleeping Dogs,United Front Games,Square Enix,,14776,890,0,"1,000,000 .. 2,000,000",987,193,666,193,0,0,0
 216250,216250,Dead Island Riptide,Techland,Deep Silver,,4914,767,0,"1,000,000 .. 2,000,000",638,276,296,529,1999,1999,0
 20570,20570,"Warhammer 40,000: Dawn of War II Chaos Rising","Relic Entertainment, Feral Interactive (Mac/Linux)","SEGA, Feral Interactive (Mac/Linux)",,1627,160,0,"1,000,000 .. 2,000,000",983,187,230,187,1999,1999,0
@@ -3538,3 +3540,815 @@
 413010,413010,Conflicks - Revolutionary Space Battles Demo,,,,0,0,0,"0 .. 20,000",1,0,1,0,0,0,0
 8955,8955,Borderlands DLC: Claptrap's New Robot Revolution,,,,0,0,0,"0 .. 20,000",0,0,0,0,0,0,0
 46470,46470,Grotesque Tactics: Evil Heroes - Dev,,,,0,0,0,"0 .. 20,000",0,0,0,0,0,0,0
+unknow,unknow,Marvel Heroes 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+250260,250260,Jazzpunk,Necrophone Games,Necrophone Games,,4121,393,0,"200,000 .. 500,000",232,2,174,2,1499,1499,0
+33230,33230,Assassin's Creed II,Ubisoft Montreal,Ubisoft,,14624,2592,0,"1,000,000 .. 2,000,000",1166,599,674,243,1999,1999,0
+238010,238010,Deus Ex Human Revolution,"Eidos Montreal, Feral Interactive (Mac)","Square Enix, Feral Interactive (Mac)",,12885,1214,0,"1,000,000 .. 2,000,000",887,596,337,249,1999,1999,0
+unknow,unknow,DiRT 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Empires II HD Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Batman Arkham Asylum GOTY Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Metro 2033,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Monaco,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Next Car Game Wreckfest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Metro Last Light,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DiRT Showdown,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Trine,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Next Car Game Sneak Peek 2.0,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Far Cry 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Secrets of Rtikon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Legend of Korra,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Galcon Legends,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Spintires,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sonic & All-Stars Racing Transformed,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Juarez Gunslinger,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lego Harry Potter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Astebreed,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Witcher Enhanced Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sonic Generations,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Modern Warfare 2 - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Black Ops - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Empire Total War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Flatout 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DCS World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tactical Intervention,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Medal of Honor(TM) Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nosgoth,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Europa Universalis III,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Awesomenauts,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Ghost Recon Phantoms - NA,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Deadpool,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Ghost Recon Phantoms - EU,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Infinite Crisis,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cloud Chamber,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ghostbusters The Video Game,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Portal Stories Mel,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Universe Sandbox,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GEARCRACK Arena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Defense Grid 2 A Matter of Endurance,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Back to the Future Ep 1 - It's About Time,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,S.K.I.L.L. - Special Force 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Elder Scrolls IV Oblivion ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Elder Scrolls III Morrowind,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Bookworm Adventures Deluxe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GRID,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,SimCity 4 Deluxe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alice Madness Returns,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Movies,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Indigo Prophecy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tales of Monkey Island Chapter 1 - Launch of the Screaming Narwhal,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DiRT 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Monkey Island 2 Special Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cryostasis,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TrackMania Stadium,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eets,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tales of Monkey Island Chapter 2 - The Siege of Spinner Cay ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tales of Monkey Island Chapter 3 - Lair of the Leviathan ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Penumbra Black Plague,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,CID The Dummy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tales of Monkey Island Chapter 4 - The Trial and Execution of Guybrush Threepwood ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wallace & Gromit Ep 1 Fright of the Bumblebees,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Plants vs. Zombies Game of the Year,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tales of Monkey Island Chapter 5 - Rise of the Pirate God,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Ben There, Dan That!",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hector Ep 1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Time Gentlemen, Please!",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Trine 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blur,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FORCED,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Path - Prologue,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Sims(TM) 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,H1Z1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,EasyAntiCheat eSports,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Chivalry,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Counter-Strike Condition Zero Deleted Scenes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,War Inc. Battlezone,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aftermath,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Happy Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fractured Space,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Advanced Warfare,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Napoleon Total War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rising Storm/Red Orchestra 2 Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arma 2 Private Military Company,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arma 2 Operation Arrowhead Beta (Obsolete),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,La Tale,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Amazing World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,R.U.S.E,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Star Wars - Battlefront II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stronghold 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Afterfall InSanity Extended Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Batman Arkham City,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Sims(TM) Medieval,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Splinter Cell Conviction,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Don't Starve Together Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Darksiders II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Command and Conquer 4 Tiberian Twilight,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Chessmaster,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Transformers Fall of Cybertron,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Brtal Legend,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dungeon Siege 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Polynomial,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Star Wars Empire at War Gold,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's H.A.W.X. 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Forge,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Free to Play,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Black Ops II - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Titan Quest Immortal Throne,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Titan Quest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Modern Warfare 3 - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Modern Warfare 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battlefield 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Insurgency Modern Infantry Combat,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Command and Conquer Red Alert 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Darkest Hour Europe '44-'45,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mare Nostrum,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Red Orchestra 2 Heroes of Stalingrad - Single Player,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Ship Tutorial,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arma 2 DayZ Mod,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Life Is Strange,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lost Saga North America,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Spooky's House of Jump Scares,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,theHunter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Knights of Pen and Paper +1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Smashball,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,School of Dragons How to Train Your Dragon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MechWarrior Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wind of Luck Arena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Firefall,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Synergy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Break Into Zatwor,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Two Worlds II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mount & Blade With Fire and Sword,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,LEGO Batman 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Teenage Mutant Ninja Turtles Out of the Shadows,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lego Star Wars 3 The Clone Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magic 2014 ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gotham City Impostors,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,LEGO Batman The Videogame,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sonic and SEGA All Stars Racing,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Total War SHOGUN 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Medieval II Total War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sid Meier's Civilization IV Beyond the Sword,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Franchise Hockey Manager 2014,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dark Messiah of Might & Magic Single Player,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,HAWKEN,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Valiant Hearts The Great War / Soldats Inconnus  Mmoires de la Grande Guerre,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Planetary Annihilation,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Among the Sleep,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,F.E.A.R. Perseus Mandate,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fallout,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magicka Wizard Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fable III,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Robin Hood,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dark Messiah of Might & Magic Multi-Player,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Anno 1404 Venice,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2011,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dishonored (RU),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Warhammer 40,000 Dawn of War II  Retribution",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aliens Colonial Marines,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Lord of the Rings War in the North,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Mighty Quest For Epic Loot,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magic The Gathering - Duels of the Planeswalkers,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nobunaga's Ambition Souzou with Power Up Kit,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ace of Spades,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Serious Sam HD The Second Encounter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,War of the Roses,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,AirMech,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Codename Gordon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dungeonland,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,F.E.A.R. Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Defy Gravity,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Rainbow Six 3 Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rome Total War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2012,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Stomping Land,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Urizen Shadows of the Cold,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Endless Space,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shoot Many Robots,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eden Star  Destroy - Build - Protect,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Company of Heroes (New Steam Version),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Offworld Trading Company,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2014,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2016,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2009,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,A.V.A - Alliance of Valiant Arms,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Test Drive Unlimited 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FINAL FANTASY XI,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,EverQuest Secrets of Faydwer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,EverQuest Seeds of Destruction,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Ship,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shovel Knight,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,BookWorm Deluxe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Zombies Monsters Robots,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Thinking with Time Machine,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blender 2.76b,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Guild Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Evolve,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Advanced Warfare - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Walking Dead Season Two,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Haunted Memories,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Duke Nukem 3D Megaton Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Temper Tantrum,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DiRT 3 Complete Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Bad Rats,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Showdown Effect,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Asteroids Outpost,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eufloria,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K15,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NASCAR '14,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DYNASTY WARRIORS 8 Xtreme Legends Complete Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hyperdimension Neptunia Re;Birth1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shufflepuck Cantina Deluxe VR,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strider,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Onimusha 3 Demon Siege,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rise of Incarnates,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TrackMania Canyon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mortal Kombat Kollection,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Defense Grid 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Crysis Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2010,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Puzzle Quest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Skullgirls Endless Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Droplitz,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Assassin's Creed,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Killing Floor Mod Defence Alliance 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,King Arthur Collection,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Neverwinter Nights 2 Platinum,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Speedball 2 Tournament,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wasteland 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dominions 4,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fallout 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fallout Tactics,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stronghold 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Black Ops II - Zombies,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Crash Time II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Train Simulator,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Farming Simulator 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Medal of Honor(TM) Single Player,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FINAL FANTASY XIV A Realm Reborn,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DUNGEONS - Steam Special Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Command and Conquer Red Alert 3 - Uprising,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Leviathan Warships,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,War of the Vikings,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Ghosts - Multiplayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,War of the Roses Balance Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragomon Hunter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Landmark,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Another World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Star Trek D-A-C,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragon Nest Europe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,BloodRealm Battlegrounds,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Conan Unchained - EU version,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Devilian,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Forsaken World ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Global Agenda,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Deadbreed,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gems of War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Manager 2016 Demo,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MicroVolts Surge,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,UberStrike,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Evolution Soccer 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,World in Conflict Soviet Assault,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Unreal Tournament 3 Black Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magic 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Modular Combat,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Feeding Frenzy 2 Shipwreck Showdown Deluxe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dead Rising 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Divinity Dragon Commander Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Elder Scrolls Online Tamriel Unlimited,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,StarForge,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,X3 Albion Prelude,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Divinity Original Sin,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,HELLDIVERS,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fallen Enchantress,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stealth Inc 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nether,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GameMaker Studio,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,East India Company Gold,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tropico 3 - Steam Special Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Frozen Hearth,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gun Monkeys,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,You Need A Budget 4 (YNAB),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Half-Life 2 Update,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gauntlet ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Marlow Briggs,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Bulletstorm,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Moonrise,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lego Star Wars Saga,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RIDE Game,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Driver San Francisco,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Black Ops - OSX,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Duty Black Ops - Multiplayer OSX,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Disciples III Renaissance,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pinball FX2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rocksmith 2014,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Reversion - The Escape,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Superstars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tony Hawk's Pro Skater HD,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Divine Souls,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fallen Earth,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,WWE 2K15,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Beast of Lycan Isle - Collector's Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alex Hunter - Lord of the Mind,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fairy Tale Mysteries The Puppet Thief Collector's Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ice Age Continental Drift Arctic Games,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Secret of the Magic Crystal,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,PC Gamer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Secret World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Divinity II - The Dragon Knight Saga,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Chronicles of Riddick Assault on Dark Athena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Unity of Command,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Winning Post 8 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Smashmuck Champions,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Call of Juarez The Cartel,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lambda Wars Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Vanishing of Ethan Carter Redux,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,SiN,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Riven,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Infestation Survivor Stories,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Survival Postapocalypse Now,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Metal Gear Solid Legacy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Uncharted Waters Online Gran Atlas,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tropico 3 Absolute Power,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cities XL 2012,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Estranged Act I,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,F1 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Hamlet or the last game without MMORPG features, shaders and product placement",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GooCubelets,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battle Nations,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fiesta Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arctic Combat,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hell Yeah!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K14,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eternal Fate,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Disney Infinity 2.0,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Pirates, Vikings, & Knights II",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Starbound - Unstable,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Final Hours of Titanfall,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stronghold Crusader Extreme HD,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,EVGA PrecisionX 16,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Settlers 7 Paths to a Kingdom - Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Thief 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Quantum Rush Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Cursed Crusade,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,D.I.P.R.I.P. Warm Up,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Galcon 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Agarest Zero,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RaiderZ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Scribblenauts Unmasked,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,A.R.E.S.,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GestureWorks Gameplay,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NEOTOKYO,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ascend Hand of Kul,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Solstice Arena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aerena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Face of Mankind,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dethroned!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hard Reset,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Warhammer Online Age of Reckoning,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dizzel,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Grey's Anatomy The Video Game,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rhythm Zone,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Transformers War for Cybertron,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Run and Fire,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,ArtRage Studio Pro,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Killer is Dead,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lili Child of Geos,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Super Monday Night Combat,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Metro Conflict,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NotGTAV,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K9,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Victor Vran,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Defender's Quest Valley of the Forgotten,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,EverQuest Free-to-Play,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Dead Linger,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rusty Hearts,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Coil,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TOME Immortal Arena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mercenary Kings,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Construct 2 Free,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"On the Rain-Slick Precipice of Darkness, Episode One",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Uncrowded,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FUEL,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Universe at War Earth Assault,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alien Shooter Vengeance,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fortune Summoners Secret of the Elemental Stone,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Chantelise,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Farming Simulator 2013 - Modding Tutorials,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,CrimeCraft GangWars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DOOM II Hell on Earth,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Myst V,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,realMyst,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cosmic Osmo,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dustforce,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Kung Fury,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cabela's Big Game Hunter Pro Hunts,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Warside,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Immune,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gladiators Online Death Before Dishonor,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nom Nom Galaxy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Finn and Jake's Epic Quest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sorcerer King,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Toy Soldiers War Chest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Deus Ex Human Revolution - The Missing Link,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Out There  Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Might & Magic Duel of Champions,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shadowrun Hong Kong,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,SpellForce 2 Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Amazing Spider-Man,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,F1 2010,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Patch testing for Chivalry,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Global Agenda - Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ravaged Zombie Apocalypse,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blood of Old,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RADical ROACH Deluxe Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Superfrog HD,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragon Age Origins Character Creator,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sins of a Dark Age,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,March of War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Empires Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FX Football - The Manager for Every Football Fan,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hegemony Philip of Macedon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Act of Aggression,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cities XL - Limited Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Political Machine,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Railroad Tycoon 2 Platinum,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sid Meier's Civilization IV Warlords,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pre-Civilization Marble Age,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,London 2012 The Official Video Game of the Olympic Games,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,City of Heroes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stronghold Legends,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragon Age II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Zombie Driver,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Combat Arms,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magicka Wizards of the Square Tablet,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gumboy Crazy Features,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Syberia 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Greyfox,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Devils Share,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Doctor Who The Eternity Clock,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Anno 1404,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Real Warfare,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,F.E.A.R. Extraction Point,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Quake 4,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tropico,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cabela's African Adventures,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wolfenstein The New Order German Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Ultimate DOOM,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Descent Underground,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DiRT,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lineage II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dead or Alive 5 Last Round,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Borderlands 2 RU,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Enemy Territory Quake Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wallace & Gromit Ep 2 The Last Resort,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wallace & Gromit Ep 3 Muzzled!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wallace & Gromit Ep 4 The Bogey Man,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arma 2 British Armed Forces,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MLB Front Office Manager,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battle for Graxia,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,PAYDAY The Web Series - Episode 1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,WTFast Gamers Private Network (GPN),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Saints Row IV Inauguration Station,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ragnarok,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Loadout Campaign Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Chaos Heroes Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Special Forces Team X,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Evolution Soccer 2016,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Emergency 2012,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cities XL 2011,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Terminator Salvation,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cabelas Trophy Bucks,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Emergency 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Saw,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Command and Conquer 3 Tiberium Wars,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,World in Conflict,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dungeons & Dragons Daggerdale,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Unreal Tournament 2004,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Command and Conquer 3 Kane's Wrath,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eternal Silence,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battle Battalions,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MEDIEVAL Total War - Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Virtua Tennis 4,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dawn of Discovery - Venice,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Patrician IV Rise of a Dynasty,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,State of Decay Year-One,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,STORM Frontline Nation,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Running Shadow,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Disney Infinity 3.0 Play Without Limits,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Back to Dinosaur Island ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K13,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Universe Sandbox ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Day One Garry's Incident,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Amazing Spider-Man 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sideway,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Darkspore,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Q.U.B.E.,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Grand Chase,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Quantum of Solace,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rexaura,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dogs of War Online - Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Take Command Second Manassas,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shattered Horizon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Cycling Manager 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Arma 2 Free,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,C9,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,All Zombies Must Die!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MoW Face Off XL,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Build-A-Lot 4,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Build-A-Lot 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Defend Your Life,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Naval War Arctic Circle,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,East India Company Pirate Bay,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Heroes Over Europe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,East India Company Privateer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aion,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Postal 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Crysis 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Batman Arkham Asylum,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,3DMark Vantage,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Retro-Pixel Castles,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Red Bull X-Fighters,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Gothic,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tomb Raider Chronicles,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ghost in the Shell Stand Alone Complex First Assault Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Turok Dinosaur Hunter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tomb Raider III Adventures of Lara Croft,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Clown House (Palyao Evi),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TrackMania Valley,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Street Fighter V Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Under the Ocean,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Galcon Fusion,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,BookWorm Adventures Volume 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nightbanes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FIFA Manager 09,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Bridge It (plus),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TrackMania United,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Walking Dead Survival Instinct,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Star Trek,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Why So Evil,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Black Sails,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Commander Keen Complete Pack,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wolfenstein 3D Spear of Destiny,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DOOM 3 Resurrection of Evil,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Westward,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tradewinds Caravans,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Westward 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sphere III Enchanted World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Out of the Park Baseball 15,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Out of the Park Baseball 16,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Wonders 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hearts of Iron II Complete,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Victory Command,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,How To Survive Third Person,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aperture Tag The Paint Gun Testing Initiative,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DUNGEONS - The Dark Lord (Steam Special Edition),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Undead Overlord,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NyxQuest,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Clickr,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pressure,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,LEVEL 22,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strong Bad Episode 1 Homestar Ruiner,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,FIFA Manager 11,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cities XL,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,007 Legends,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Emergency 5 - Deluxe Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stormrise,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Frontline Tactics,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Anno Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragon Quest Heroes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Schrdinger's Cat and the Raiders of the Lost Quark,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,WRC 5,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lifeless Planet,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Why So Evil 2 Dystopia,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Beyond Space,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Absconding Zatwor,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Paranormal State Poison Spring Collector's Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Brilliant Bob,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Saviors,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Journey Of The Light,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Splatter - Blood Red Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Forsaken Uprising,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Legend of Mysteria,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Destiny Warriors,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sun Blast,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ancient Planet,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fiends of Imprisonment,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pirates of Black Cove Gold,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Carmageddon Reincarnation,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Saints Row The Third - Initiation Station,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Section 8,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wrath of Athena,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,No Time to Explain,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Moon Breakers,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pool Nation FX,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dollar Dash,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,OMSI 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Your Doodles Are Bugged!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Painkiller Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stubbs the Zombie in Rebel Without a Pulse,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Beyond Good & Evil,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Unreal II The Awakening,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Bientt l't,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Psychonauts Demo,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Life of Pixel,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Heroes of SoulCraft,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Guild Wars Trilogy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magical Diary,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ys I,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Settlers 7 Paths to a Kingdom,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Aion Collectors Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blood Bowl Dark Elves Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's H.A.W.X.,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Buccaneer The Pursuit of Infamy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Age of Conan Rise of the Godslayer,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Legends of Pegasus,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,My Lands,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wolfenstein The Old Blood German Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,GTR Evolution,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Caribbean!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Xam,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Higurashi When They Cry - Ch.1 Onikakushi,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Jagged Alliance Online - Steam Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Homebrew - Vehicle Sandbox,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RIP 3 The Last Hero,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Commander Conquest of the Americas Gold,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Championship Manager 2008,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Lumines,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Jagged Alliance 2 Gold Pack,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Broken Sword 1 - Shadow of the Templars Director's Cut,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Black Fire,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Zuma's Revenge! - Adventure,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Football Tactics,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cabela's Dangerous Hunts 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Movie Studio 13 Platinum - Steam Powered,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Obscure 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Babel Rising,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Microsoft Flight,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Nancy Drew Secrets can Kill,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,OCEAN CITY RACING,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Astro Lords,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,WRC Powerslide,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Adventure Park,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Axis Game Factory's AGFPRO 3.0,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Impossible Creatures,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Monopoly,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Oh...Sir!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Kane & Lynch Dead Men,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,AION Free-to-Play,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wizardry Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MLB 2K12,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Magic The Gathering  Tactics,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sword Coast Legends,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,District 187,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Crossfire Europe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Slaughtering Grounds,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tomb Raider The Last Revelation,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RollerCoaster Tycoon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"On the Rain-Slick Precipice of Darkness, Episode Two",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Company of Heroes Europe at War,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ski Region Simulator,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,DCS Black Shark,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battle Los Angeles,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Beasts of Prey,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MoW Face Off M,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Super Game Jam,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Guild Wars Game of the Year,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,TRANSFORMERS Rise of the Dark Spark,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dragon's Prophet (EU),unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Music Creator 6 Touch,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Leo's Fortune,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tesla Effect,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Secret Files Puritas Cordis,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Dream Machine,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Clive Barker's Jericho,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Conquest of Champions,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,City of Steam Arkadia,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ford Racing 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Terrorhedron,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shellshock 2 Blood Trails,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Deus Ex Revision,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Ghost Recon Advanced Warfighter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Oniken,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Keen Dreams,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cast of the Seven Godsends,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Into the Dark,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Battle vs Chess,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alpha Kimori Episode One ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Deadly Profits,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Narco Terror,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Total War Battles SHOGUN,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Retro/Grade,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Demise of Nations Rome,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dysan the Shapeshifter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strife Veteran Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dead State,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Silent Storm Sentinels,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Shan Gui,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Treasure Planet Battle at Procyon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ghostbusters Sanctum of Slime,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Neighbours from Hell,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Neighbours from Hell 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Carnage Racing,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,ToCA Race Driver 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cabela's Hunting Expeditions,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Midnight Club II,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Evolution Soccer 2014,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Divinity II - Ego Draconis,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sky Nations,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,KWAAN,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Glare,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Reversi,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alganon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Majesty Gold Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Close Your Eyes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Heroes and Titans Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,RESCUE 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Children of the Nile,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stargate Resistance,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Stick RPG 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Showtime!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sniper Elite Zombie Army 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Elite Dangerous Horizons,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,CameraBag 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blazing Angels Squadrons of WWII,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Blazing Angels 2 Secret Missions of WWII,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Wolfenstein,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Operation Z,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mega Man Legacy Collection,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Violett,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Substance Painter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Windborne,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Alter World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Real World Racing,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dark Fall 1 The Journal,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Curious Expedition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,System Protocol One,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Introduction to 3D Prop Modeling and Design - Viking Armor and Weapons,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Order of War Challenge,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Whispered World,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K11,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NEED FOR MADNESS ?,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,I-Fluid,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,D.U.S.T.,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Cycling Manager Season 2009,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NBA 2K12,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Duck Dynasty,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Family Guy Back to the Multiverse,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sublevel Zero,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Killing Floor Beta,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Pro Evolution Soccer 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Ashes of the Singularity,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,STAR WARS X-Wing vs. TIE Fighter,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Rescue Everyday Heroes,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Sniper Elite Zombie Army,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Castaway Paradise,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Raiden Legacy,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Afterfall InSanity - Dirty Arena Edition,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Championship Manager 2010,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Dinosaur Hunt Africa Contract,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Guardians of Orion,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,B.U.T.T.O.N.,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Mortal Kombat Legacy II - Ep. 1 Reunited in Macau,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NOBUNAGA'S AMBITION Kakushin with Power Up Kit,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eschalon Book 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Eschalon Book 1,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Freedom Force vs. the 3rd Reich,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Tom Clancy's Ghost Recon Advanced Warfighter 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Fish Fillets 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Over the Dream,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,AZMD! Scorepocalypse ,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Earth 2150 The Moon Project,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Earth 2150 Lost Souls,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NASCAR The Game 2013,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Riding Star,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,"Nancy Drew Lights, Camera, Curses!",unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,NightShift Code,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Atlantica Online,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,SpaceForce Rogue Universe,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Digital Combat Simulator A-10C Warthog,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,1701 A.D. Sunken Dragon,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Chrome,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Space Siege,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Chrome Specforce,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Fast & Furious Showdown,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Cloudy with a Chance of Meatballs,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,D4 Dark Dreams Don't Die,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Franchise Hockey Manager 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Maszyny Rolnicze 2015,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strong Bad Episode 3 Baddest of the Bands,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strong Bad Episode 2 Strong Badia the Free,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Strong Bad Episode 4 Dangeresque 3,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hector Ep 2,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,The Otherside,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Hotel Dash,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Worldwide Soccer Manager 2009,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MLB 2K10,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,MLB 2K11,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Out of the Park Baseball 14,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Adventure Time  Explore the Dungeon Because I DONT KNOW!,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Romance of the Three Kingdoms Maker,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Space Colony,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1
+unknow,unknow,Batman Arkham City GOTY,unknow,unknow,,-1,-1,-1,unknow,-1,-1,-1,-1,-1,-1,-1

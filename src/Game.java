@@ -23,4 +23,11 @@ public class Game {
 		this.price = Double.parseDouble(elements.get(14))/100;
 	}
 	
+	public Game(String s, double price) {
+		this.name = s;
+		this.price = price;
+		this.negative = 0;
+		this.positive = 0;
+	}
+	
 }
