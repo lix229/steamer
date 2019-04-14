@@ -64,7 +64,7 @@ public class DetailsPanel extends JPanel {
 					gameButton2.setEnabled(true);
 				}
 				try {
-					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Invalid entry, please try again.");
 				} catch (HeadlessException e1) {
 					e1.printStackTrace();
 				} catch (Exception e1) {
@@ -84,7 +84,7 @@ public class DetailsPanel extends JPanel {
 					gameButton3.setEnabled(true);
 				}
 				try {
-					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Invalid entry, please try again.");
 				} catch (HeadlessException e1) {
 					e1.printStackTrace();
 				} catch (Exception e1) {
@@ -100,7 +100,7 @@ public class DetailsPanel extends JPanel {
 					currentPlayer.addPurchase(name3);
 				}
 				try {
-					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
+					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Invalid entry, please try again.");
 				} catch (HeadlessException e1) {
 					e1.printStackTrace();
 				} catch (Exception e1) {
