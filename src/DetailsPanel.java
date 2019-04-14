@@ -56,7 +56,6 @@ public class DetailsPanel extends JPanel {
 				String name1 = gameField1.getText();
 				if ((!currentPlayer.isDuplicate(name1))
 						&& Search.binarySearch(games, 0, games.size() - 1, name1) != -1) {
-					System.out.println(Search.binarySearch(games, 0, games.size() - 1, name1));
 					currentPlayer.addPurchase(name1);
 					gameField2.setEditable(true);
 					gameButton2.setEnabled(true);
