@@ -119,6 +119,7 @@ public class DetailsPanel extends JPanel {
 		genButton.addActionListener(new ActionListener() {
 
 			public void actionPerformed(ActionEvent e) {
+				
 				HashMap<String, Integer> gameMap = new HashMap<>();
 				for (int i = 0; i < games.size(); i++) {
 					String temp = games.get(i).getName().replaceAll("[^A-Za-z0-9]", "");
@@ -158,7 +159,7 @@ public class DetailsPanel extends JPanel {
 
 //				String test = resultStrings[0];
 //				System.out.println(test);
-
+				fireDetailEvent(new DetailEvent(this, "Clear"));
 				for (int i = 0; i < resultStrings.length; i++) {
 					fireDetailEvent(new DetailEvent(this, resultStrings[i]));
 				}
