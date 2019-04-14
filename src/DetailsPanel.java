@@ -56,7 +56,7 @@ public class DetailsPanel extends JPanel {
 				String name1 = gameField1.getText();
 				if ((!currentPlayer.isDuplicate(name1))
 						&& Search.binarySearch(games, 0, games.size() - 1, name1) != -1) {
-					currentPlayer.addPurchase(name1);
+					currentPlayer.addPurchase(1, name1);
 					gameField2.setEditable(true);
 					gameButton2.setEnabled(true);
 				} else {
@@ -78,7 +78,7 @@ public class DetailsPanel extends JPanel {
 				String name2 = gameField2.getText();
 				if ((!currentPlayer.isDuplicate(name2))
 						&& Search.binarySearch(games, 0, games.size() - 1, name2) != -1) {
-					currentPlayer.addPurchase(name2);
+					currentPlayer.addPurchase(2, name2);
 					gameField3.setEditable(true);
 					gameButton3.setEnabled(true);
 				} else {
@@ -99,7 +99,7 @@ public class DetailsPanel extends JPanel {
 				String name3 = gameField3.getText();
 				if ((!currentPlayer.isDuplicate(name3))
 						&& Search.binarySearch(games, 0, games.size() - 1, name3) != -1) {
-					currentPlayer.addPurchase(name3);
+					currentPlayer.addPurchase(3, name3);
 				} else {
 					try {
 						JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"),

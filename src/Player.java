@@ -30,8 +30,8 @@ public class Player {
 		return this.id;
 	}
 
-	public void addPurchase(String purchased) {
-		this.purchased.add(purchased);
+	public void addPurchase(int index, String purchased) {
+		this.purchased.add(index - 1, purchased);
 	}
 
 	public ArrayList<String> getPurchased() {

@@ -59,7 +59,7 @@ public class Main {
 		do {
 	        game1 = reader1.nextLine();
 	        if (Search.binarySearch(games, 0, games.size()-1, game1) >= 0) {
-	        	user.addPurchase(game1);
+	        	user.addPurchase(1, game1);
 	            flag = 2;
 	        }
 	        else {
@@ -72,7 +72,7 @@ public class Main {
 		do {
 			game2 = reader1.nextLine();
 	        if (Search.binarySearch(games, 0, games.size()-1, game2) >= 0) {
-	        	user.addPurchase(game2);
+	        	user.addPurchase(2, game2);
 	            flag = 2;
 	        }
 	        else {
@@ -85,7 +85,7 @@ public class Main {
 		do {
 			game3 = reader1.nextLine();
 	        if (Search.binarySearch(games, 0, games.size()-1, game3) >= 0) {
-	        	user.addPurchase(game3);
+	        	user.addPurchase(3, game3);
 	            flag = 2;
 	        }
 	        else {
