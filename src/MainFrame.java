@@ -6,7 +6,10 @@ import java.util.ArrayList;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
+import javax.swing.ScrollPaneConstants;
 
 
 public class MainFrame extends JFrame {
@@ -23,14 +26,15 @@ public class MainFrame extends JFrame {
 		
 		JTextArea textArea = new JTextArea();
 		
+		JScrollPane scrollPane = new JScrollPane(textArea);
+		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		
 		penal = new DetailsPanel();
 		
 		penal.addDetailListener(new DetailListener() {
 			public void detailEventOccurred(DetailEvent event) {
 				String text = event.getResult();
-//				for (int i = 0; i < text.size(); i++) {
-//					textArea.append(text.get(i));
-//				}
+
 				textArea.append(text + "\n");
 			}
 		});
@@ -39,6 +43,7 @@ public class MainFrame extends JFrame {
 		Container container = getContentPane();
 		container.add(textArea, BorderLayout.CENTER);
 		container.add(penal, BorderLayout.WEST);
+		container.add(scrollPane, BorderLayout.EAST);
 		
 	}
 }

@@ -13,15 +13,15 @@ public class App {
 			
 			@Override
 			public void run() {
-				JFrame testFrame = null;
+				JFrame steamer = null;
 				try {
-					testFrame = new MainFrame("STEAMER");
+					steamer = new MainFrame("STEAMER");
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
-				testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-				testFrame.setSize(600,350);
-				testFrame.setVisible(true);
+				steamer.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+				steamer.setSize(600,350);
+				steamer.setVisible(true);
 			}
 		});
 
