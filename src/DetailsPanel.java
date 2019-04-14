@@ -48,7 +48,12 @@ public class DetailsPanel extends JPanel {
 		gameField3.setEditable(false);
 		
 		
-		JButton gameButton1 = new JButton("ADD");	
+		JButton gameButton1 = new JButton("ADD");
+		JButton gameButton2 = new JButton("ADD");
+		gameButton2.setEnabled(false);
+		JButton gameButton3 = new JButton("ADD");
+		gameButton3.setEnabled(false);
+		
 		gameButton1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
@@ -56,6 +61,7 @@ public class DetailsPanel extends JPanel {
 					System.out.println(Search.binarySearch(games, 0, games.size()-1, name1));
 					currentPlayer.addPurchase(name1);
 					gameField2.setEditable(true);
+					gameButton2.setEnabled(true);
 				}
 				try {
 					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
@@ -69,13 +75,13 @@ public class DetailsPanel extends JPanel {
 		});
 		
 		
-		JButton gameButton2 = new JButton("ADD");
 		gameButton2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name2 = gameField2.getText();
 				if(!currentPlayer.isDuplicate(name2) && Search.binarySearch(games, 0, games.size()-1, name2) != -1) {
 					currentPlayer.addPurchase(name2);
 					gameField3.setEditable(true);
+					gameButton3.setEnabled(true);
 				}
 				try {
 					JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"), "Entry not found, please try again.");
@@ -87,7 +93,6 @@ public class DetailsPanel extends JPanel {
 			}
 		});
 		
-		JButton gameButton3 = new JButton("ADD");
 		gameButton3.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name3 = gameField2.getText();
