@@ -103,9 +103,9 @@ public class Main {
 		}*/
 		
 		//System.out.println("Path of Exile".compareTo("PC Gamer"));
-		System.out.println("finish array");
-		System.out.println(games.size());
-		System.out.println(players.size());
+		//System.out.println("finish array");
+		//System.out.println(games.size());
+		//System.out.println(players.size());
 		
 	    /*
 		for (int i=0; i<games.size(); i++) {
@@ -128,17 +128,57 @@ public class Main {
 		
 		
 		Graph gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games,players );
-		System.out.println("finish graph");
+		//System.out.println("finish graph");
 		
 		Buildgraph.addPlayer(gameGraph, user, gameMap);
 		
+		ArrayList<Game> output = recommend(gameGraph,games, user);
+		printGame(output);
+		
+		/*
 		double[] result = GraphAlgo.collaborative(gameGraph, games);
 		
 		int[] sorted = Sort.sort(result);
 		
+		System.out.println(games.get(sorted[sorted.length - 1]).getName());
+		System.out.println(games.get(sorted[sorted.length - 2]).getName());
+		System.out.println(games.get(sorted[sorted.length - 3]).getName());
 		System.out.println(games.get(sorted[sorted.length - 4]).getName());
-		System.out.println(games.get(sorted[sorted.length - 5]).getName());
-		System.out.println(games.get(sorted[sorted.length - 6]).getName());
+		System.out.println(games.get(sorted[sorted.length - 5]).getName());*/
 		
+	}
+	
+	public static void printGame(ArrayList<Game> games) {
+		for(int i = 0; i < games.size(); i++) {
+			System.out.println(i+1 + " recommendation is " +games.get(i).getName());
+			System.out.println("Price: " +games.get(i).getPrice() + " Positive Rate: " + games.get(i).positiveRate());
+		}
+	}
+	
+	public static ArrayList<Game> recommend(Graph newGraph, ArrayList<Game> games, Player user){
+		ArrayList<Game> temp = new ArrayList<Game>();
+		double[] result = GraphAlgo.collaborative(newGraph, games);
+		int[] sorted = Sort.sort(result);
+		int i = 1;
+		int added = 0;
+		while(added < 5) {
+			if(gameExit(user, sorted[sorted.length - i], games) == false) {
+				temp.add(games.get(sorted[sorted.length - i]));
+				added++;
+			}
+			i++;
+		}
+		return temp;
+	}
+	
+	private static boolean gameExit(Player user, int i, ArrayList<Game> games) {
+		Game test = games.get(i);
+		String name = test.getName();
+		ArrayList<String> purchased = user.getPurchased();
+		for(int j = 0; j < purchased.size();j++) {
+			if(name.compareTo(purchased.get(j)) == 0)return true;
+		}
+		
+		return false;
 	}
 }
