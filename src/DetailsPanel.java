@@ -54,7 +54,8 @@ public class DetailsPanel extends JPanel {
 		gameButton1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name1 = gameField1.getText();
-				if (!currentPlayer.isDuplicate(name1) && Search.binarySearch(games, 0, games.size() - 1, name1) != -1) {
+				if ((!currentPlayer.isDuplicate(name1))
+						&& Search.binarySearch(games, 0, games.size() - 1, name1) != -1) {
 					System.out.println(Search.binarySearch(games, 0, games.size() - 1, name1));
 					currentPlayer.addPurchase(name1);
 					gameField2.setEditable(true);
@@ -76,7 +77,8 @@ public class DetailsPanel extends JPanel {
 		gameButton2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String name2 = gameField2.getText();
-				if (!currentPlayer.isDuplicate(name2) && Search.binarySearch(games, 0, games.size() - 1, name2) != -1) {
+				if ((!currentPlayer.isDuplicate(name2))
+						&& Search.binarySearch(games, 0, games.size() - 1, name2) != -1) {
 					currentPlayer.addPurchase(name2);
 					gameField3.setEditable(true);
 					gameButton3.setEnabled(true);
@@ -95,8 +97,9 @@ public class DetailsPanel extends JPanel {
 
 		gameButton3.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				String name3 = gameField2.getText();
-				if (!currentPlayer.isDuplicate(name3) && Search.binarySearch(games, 0, games.size() - 1, name3) != -1) {
+				String name3 = gameField3.getText();
+				if ((!currentPlayer.isDuplicate(name3))
+						&& Search.binarySearch(games, 0, games.size() - 1, name3) != -1) {
 					currentPlayer.addPurchase(name3);
 				} else {
 					try {
