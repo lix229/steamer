@@ -32,7 +32,7 @@ public class MainFrame extends JFrame {
 		penal.addDetailListener(new DetailListener() {
 			public void detailEventOccurred(DetailEvent event) {
 				String text = event.getResult();
-				if (text.equals("Clear")) {
+				if (text.equals("Clear2550139179038932026L")) {
 					textArea.setText(null);
 				} else {
 					textArea.append(text + "\n");

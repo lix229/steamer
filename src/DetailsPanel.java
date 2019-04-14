@@ -7,6 +7,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.PrimitiveIterator.OfDouble;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -119,51 +120,63 @@ public class DetailsPanel extends JPanel {
 		genButton.addActionListener(new ActionListener() {
 
 			public void actionPerformed(ActionEvent e) {
-				
-				HashMap<String, Integer> gameMap = new HashMap<>();
-				for (int i = 0; i < games.size(); i++) {
-					String temp = games.get(i).getName().replaceAll("[^A-Za-z0-9]", "");
-					temp = temp.toUpperCase();
-					gameMap.put(temp, i);
-				}
 
-				HashMap<String, Integer> playerMap = new HashMap<>();
-				for (int i = 0; i < players.size(); i++) {
-					playerMap.put(players.get(i).getId(), games.size() + i);
-				}
+				if (!currentPlayer.isNull()) {
 
-				Graph gameGraph = null;
+					HashMap<String, Integer> gameMap = new HashMap<>();
+					for (int i = 0; i < games.size(); i++) {
+						String temp = games.get(i).getName().replaceAll("[^A-Za-z0-9]", "");
+						temp = temp.toUpperCase();
+						gameMap.put(temp, i);
+					}
 
-				try {
-					gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games, players);
-				} catch (Exception e1) {
-					e1.printStackTrace();
-				}
+					HashMap<String, Integer> playerMap = new HashMap<>();
+					for (int i = 0; i < players.size(); i++) {
+						playerMap.put(players.get(i).getId(), games.size() + i);
+					}
 
-				try {
-					Buildgraph.addPlayer(gameGraph, currentPlayer, gameMap);
-				} catch (IOException e1) {
-					e1.printStackTrace();
-				}
+					Graph gameGraph = null;
 
-				double[] result = GraphAlgo.collaborative(gameGraph, games);
+					try {
+						gameGraph = Buildgraph.GameGraph(gameMap, playerMap, games, players);
+					} catch (Exception e1) {
+						e1.printStackTrace();
+					}
 
-				int[] sorted = Sort.sort(result);
+					try {
+						Buildgraph.addPlayer(gameGraph, currentPlayer, gameMap);
+					} catch (IOException e1) {
+						e1.printStackTrace();
+					}
 
-				String[] resultStrings = { (games.get(sorted[sorted.length - 4]).getName()),
-						(games.get(sorted[sorted.length - 5]).getName()),
-						(games.get(sorted[sorted.length - 6]).getName()) };
+					double[] result = GraphAlgo.collaborative(gameGraph, games);
+
+					int[] sorted = Sort.sort(result);
+
+					String[] resultStrings = { (games.get(sorted[sorted.length - 4]).getName()),
+							(games.get(sorted[sorted.length - 5]).getName()),
+							(games.get(sorted[sorted.length - 6]).getName()) };
 //				resultStrings.add(games.get(sorted[sorted.length - 4]).getName());
 //				resultStrings.add(games.get(sorted[sorted.length - 5]).getName());
 //				resultStrings.add(games.get(sorted[sorted.length - 6]).getName());
 
 //				String test = resultStrings[0];
 //				System.out.println(test);
-				fireDetailEvent(new DetailEvent(this, "Clear"));
-				for (int i = 0; i < resultStrings.length; i++) {
-					fireDetailEvent(new DetailEvent(this, resultStrings[i]));
-				}
+					fireDetailEvent(new DetailEvent(this, "Clear2550139179038932026L"));
+					for (int i = 0; i < resultStrings.length; i++) {
+						fireDetailEvent(new DetailEvent(this, resultStrings[i]));
+					}
 
+				} else {
+					try {
+						JOptionPane.showMessageDialog(new ErrorFrame("Invalid Entry"),
+								"All entries are empty.");
+					} catch (HeadlessException e1) {
+						e1.printStackTrace();
+					} catch (Exception e1) {
+						e1.printStackTrace();
+					}
+				}
 			}
 		});
 
