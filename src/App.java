@@ -20,7 +20,7 @@ public class App {
 					e.printStackTrace();
 				}
 				steamer.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-				steamer.setSize(600,350);
+				steamer.setSize(600,300);
 				steamer.setVisible(true);
 			}
 		});

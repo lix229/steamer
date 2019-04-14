@@ -57,7 +57,7 @@ public class Buildgraph {
 	public static void addPlayer(Graph g, Player user, HashMap<String, Integer> gameMap) throws IOException {
 		ArrayList<String> games = user.getPurchased();
 		BufferedWriter bw = new BufferedWriter(new FileWriter("data/error.txt", true));
-		for(int i = 0; i <games.size(); i++) {
+		for(int i = 0; i <3; i++) {
 			String temp = games.get(i).replaceAll("[^A-Za-z0-9]", "");
 			temp = temp.toUpperCase();
 			int player = g.getV() - 1;
@@ -65,7 +65,7 @@ public class Buildgraph {
 			
 			try {
 				game = gameMap.get(temp);
-				g.addEdge(new Edge(game, player, 3+i));
+				g.addEdge(new Edge(game, player, 6-i));
 				//System.out.println(from);
 			}catch(Exception e){
 				//System.out.println("Exception at game");

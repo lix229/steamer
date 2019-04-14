@@ -6,10 +6,8 @@ import java.util.ArrayList;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
-import javax.swing.ScrollPaneConstants;
+
 
 public class MainFrame extends JFrame {
 
@@ -24,9 +22,6 @@ public class MainFrame extends JFrame {
 
 		JTextArea textArea = new JTextArea();
 
-		JScrollPane scrollPane = new JScrollPane(textArea);
-		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-
 		penal = new DetailsPanel();
 
 		penal.addDetailListener(new DetailListener() {
@@ -34,6 +29,9 @@ public class MainFrame extends JFrame {
 				String text = event.getResult();
 				if (text.equals("Clear2550139179038932026L")) {
 					textArea.setText(null);
+				} 
+				else if (text.equals("Price: -0.01")) {
+					textArea.append("Price: N/A \n");
 				} else {
 					textArea.append(text + "\n");
 				}
@@ -43,7 +41,6 @@ public class MainFrame extends JFrame {
 		Container container = getContentPane();
 		container.add(textArea, BorderLayout.CENTER);
 		container.add(penal, BorderLayout.WEST);
-		container.add(scrollPane, BorderLayout.EAST);
 
 	}
 }

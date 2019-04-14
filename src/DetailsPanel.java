@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.PrimitiveIterator.OfDouble;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -153,9 +152,17 @@ public class DetailsPanel extends JPanel {
 
 					int[] sorted = Sort.sort(result);
 
-					String[] resultStrings = { (games.get(sorted[sorted.length - 4]).getName()),
-							(games.get(sorted[sorted.length - 5]).getName()),
-							(games.get(sorted[sorted.length - 6]).getName()) };
+					String[] resultStrings = { 
+							" \nRecommendation No.1: ", (games.get(sorted[sorted.length - 4]).getName()),
+							"Price: " + Double.toString((games.get(sorted[sorted.length - 4]).getPrice())),
+							"Positive rate: " + Double.toString((games.get(sorted[sorted.length - 4]).positiveRate()))  + " \n",
+							"Recommendation No.2: ", (games.get(sorted[sorted.length - 5]).getName()),
+							"Price: " + Double.toString((games.get(sorted[sorted.length - 5]).getPrice())),
+							"Positive rate: " + Double.toString((games.get(sorted[sorted.length - 5]).positiveRate())) + " \n",
+							"Recommendation No.3: ", (games.get(sorted[sorted.length - 6]).getName()),
+							"Price: " + Double.toString((games.get(sorted[sorted.length - 6]).getPrice())),
+							"Positive rate: " + Double.toString((games.get(sorted[sorted.length - 6]).positiveRate())) + " \n"
+							};
 //				resultStrings.add(games.get(sorted[sorted.length - 4]).getName());
 //				resultStrings.add(games.get(sorted[sorted.length - 5]).getName());
 //				resultStrings.add(games.get(sorted[sorted.length - 6]).getName());
